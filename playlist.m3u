@@ -1,21 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png" group-title="nasional", TRANS TV HD
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1997483426_b744100_sleng.m3u8
+#----Umum
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png" group-title="nasional", TRANS TV HD
+    https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1997483426_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="nasional", TRANS7 HD
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w749892845_b744100_sleng.m3u8
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="nasional", TRANS7 HD
+    https://video.detik.com/trans7/smil:trans7.smil/chunklist_w749892845_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET TV HD
-https://youtube.com/JYhn33UbxbE
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET TV HD
+    https://youtube.com/JYhn33UbxbE
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="nasional", Metro TV HD
-https://stream-04.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS5UD-TR2e9S1gLdeNF4IPRc)/dm/3/x75p70w/d/live-3.m3u8
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/25hnd6BK/logo-kompastv-small.png" group-title="nasional", KOMPAS TV HD
+    https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G33qL1y5503VMN6q8MEcgkY)/dm/3/x6pz4sa/d/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE HD
-https://youtube.com/K9lOPKwo44w
+#----News
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="nasional", Metro TV HD
+    http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1804946251_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="news", CNN INDONESIA HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE HD
+    https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/25hnd6BK/logo-kompastv-small.png" group-title="nasional", KOMPAS TV HD
-https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G33qL1y5503VMN6q8MEcgkY)/dm/3/x6pz4sa/d/live-3.m3u8
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="news", CNN INDONESIA HD
+    https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+    #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_small1.png" group-title="Islam", Berita Satu
+    http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#----Islam
+    #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_rodjatv_small1.png" group-title="Islam", Rodja TV
+    http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8

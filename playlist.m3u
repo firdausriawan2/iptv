@@ -12,22 +12,22 @@
     #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4YWFgZr37iQ/XdiIGgm1jZI/AAAAAAAADSg/E74ouxdvaC05DcbplUAPCsir3nr9BcGbgCLcBGAsYHQ/w800/lowongan-kerja-pt-net-mediatama-televisi.jpg" group-title="nasional", NET TV
     https://youtube.com/JYhn33UbxbE
 
-    #EXTINF:-1 tvg-logo="https://i.postimg.cc/25hnd6BK/logo-kompastv-small.png" group-title="nasional", KOMPAS TV
+    #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQE29YsvQ0-8kQ/company-logo_400_400/0/1519934276430?e=1645660800&v=beta&t=x6TJnGdhYKXr7S3Z7OCc4YQKpyUPUsvj_LXaUMAuWfE" group-title="nasional", KOMPAS TV
     https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G33qL1y5503VMN6q8MEcgkY)/dm/3/x6pz4sa/d/live-3.m3u8
 
 #----News
-    #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="nasional", Metro TV (HD)
+    #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/metrotv.jpg" group-title="nasional", Metro TV (HD)
     http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1804946251_b1492000_sleng.m3u8
 
-    #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE
-    https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
+    #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcoiYwYUdhCLdVF5YHWQiOr2Gfhbc7DbF2w&usqp=CAU" group-title="nasional", TVONE
+    http://210.210.155.35/session/4c78058c-6b64-11ec-8b65-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
     #EXTINF:-1 tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="news", CNN INDONESIA
     https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-    #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_small1.png" group-title="Islam", Berita Satu
+    #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101078918545600512/RkJnUwdY_400x400.png" group-title="Islam", Berita Satu
     http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
 #----Islam
-    #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_rodjatv_small1.png" group-title="Islam", Rodja TV
+    #EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/Rodja-TV.jpg" group-title="Islam", Rodja TV
     https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1320168868_b1396000.m3u8

@@ -1,36 +1,45 @@
 #EXTM3U
-#----Umum
-    #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1460915181643452416/TOnTX4dV_400x400.jpg" group-title="nasional", MNCTV
-    https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+##-------Indonesia
+    #----Umum
+        #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1460915181643452416/TOnTX4dV_400x400.jpg" group-title="Indonesia", MNCTV
+        https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
-    #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RUT6Ji-4fhfsun9CSe6r_D2zDjQ=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/566757/globaltv-421b7c.jpg" group-title="nasional", GTV
-    https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
+        #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RUT6Ji-4fhfsun9CSe6r_D2zDjQ=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/566757/globaltv-421b7c.jpg" group-title="Indonesia", GTV
+        https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 
-    #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg" group-title="nasional", TRANS TV
-    https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1997483426_b744100_sleng.m3u8
+        #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg" group-title="Indonesia", TRANS TV
+        https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1997483426_b744100_sleng.m3u8
 
-    #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="nasional", TRANS7
-    https://video.detik.com/trans7/smil:trans7.smil/chunklist_w749892845_b744100_sleng.m3u8
+        #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="Indonesia", TRANS7
+        https://video.detik.com/trans7/smil:trans7.smil/chunklist_w749892845_b744100_sleng.m3u8
 
-    #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wjSWwKsldZw/WTJWr6OoVDI/AAAAAAAAAOg/MSR8ivnsRxIs-kkBomfm-px6r__B1nN5QCLcB/s1600/nettv.png" group-title="nasional", NET TV
-    https://youtube.com/JYhn33UbxbE
+        #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wjSWwKsldZw/WTJWr6OoVDI/AAAAAAAAAOg/MSR8ivnsRxIs-kkBomfm-px6r__B1nN5QCLcB/s1600/nettv.png" group-title="Indonesia", NET TV
+        https://youtube.com/JYhn33UbxbE
 
-    #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQE29YsvQ0-8kQ/company-logo_400_400/0/1519934276430?e=1645660800&v=beta&t=x6TJnGdhYKXr7S3Z7OCc4YQKpyUPUsvj_LXaUMAuWfE" group-title="nasional", KOMPAS TV
-    https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G33qL1y5503VMN6q8MEcgkY)/dm/3/x6pz4sa/d/live-3.m3u8
+        #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQE29YsvQ0-8kQ/company-logo_400_400/0/1519934276430?e=1645660800&v=beta&t=x6TJnGdhYKXr7S3Z7OCc4YQKpyUPUsvj_LXaUMAuWfE" group-title="Indonesia", KOMPAS TV
+        https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G33qL1y5503VMN6q8MEcgkY)/dm/3/x6pz4sa/d/live-3.m3u8
 
-#----News
-    #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/metrotv.jpg" group-title="nasional", Metro TV (HD)
-    http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1804946251_b1492000_sleng.m3u8
+    #----News
+        #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/metrotv.jpg" group-title="Indonesia", Metro TV (HD)
+        http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1804946251_b1492000_sleng.m3u8
 
-    #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/tv_one.jpg" group-title="nasional", TVONE
-    http://210.210.155.35/session/4c78058c-6b64-11ec-8b65-b82a72d63267/qwr9ew/s/s105/01.m3u8
+        #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/tv_one.jpg" group-title="Indonesia", TVONE
+        http://210.210.155.35/session/4c78058c-6b64-11ec-8b65-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
-    #EXTINF:-1 tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="news", CNN INDONESIA
-    https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+        #EXTINF:-1 tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="Indonesia", CNN INDONESIA
+        https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-    #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101078918545600512/RkJnUwdY_400x400.png" group-title="Islam", Berita Satu
-    http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+        #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101078918545600512/RkJnUwdY_400x400.png" group-title="Indonesia", Berita Satu
+        http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-#----Islam
-    #EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/Rodja-TV.jpg" group-title="Islam", Rodja TV
-    https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1320168868_b1396000.m3u8
+        #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-WOn6KnnlfEc/W9pV8NImp6I/AAAAAAAAFng/f-Y8BHnsCCIsp2DFO0nQ_xT_gSoTPDfzgCK4BGAYYCw/s1600/iNews%2Bsipp%2Bpoll-min.png" group-title="Indonesia", Berita Satu
+        https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+
+    #----Islam
+        #EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/Rodja-TV.jpg" group-title="Indonesia", Rodja TV
+        https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1320168868_b1396000.m3u8
+
+##-------Malaysia
+    #----Umum
+        #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="Malaysia", TV1
+        http://iptv.tvmalaysia.cc:80/624850/624850/7177

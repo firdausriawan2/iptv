@@ -1,5 +1,11 @@
+MNC TV
+https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+
 GTV
 https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
+
+iNews TV
+https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 
 TransTV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1997483426_b744100_sleng.m3u8

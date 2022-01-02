@@ -1,3 +1,5 @@
+GTV
+https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 
 TransTV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1997483426_b744100_sleng.m3u8

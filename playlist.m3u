@@ -3,13 +3,16 @@
     #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1460915181643452416/TOnTX4dV_400x400.jpg" group-title="nasional", MNCTV
     https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
+    #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/04/06/1989016975.png" group-title="nasional", GTV
+    https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
+
     #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg" group-title="nasional", TRANS TV
     https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1997483426_b744100_sleng.m3u8
 
     #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="nasional", TRANS7
     https://video.detik.com/trans7/smil:trans7.smil/chunklist_w749892845_b744100_sleng.m3u8
 
-    #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4YWFgZr37iQ/XdiIGgm1jZI/AAAAAAAADSg/E74ouxdvaC05DcbplUAPCsir3nr9BcGbgCLcBGAsYHQ/w800/lowongan-kerja-pt-net-mediatama-televisi.jpg" group-title="nasional", NET TV
+    #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wjSWwKsldZw/WTJWr6OoVDI/AAAAAAAAAOg/MSR8ivnsRxIs-kkBomfm-px6r__B1nN5QCLcB/s1600/nettv.png" group-title="nasional", NET TV
     https://youtube.com/JYhn33UbxbE
 
     #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQE29YsvQ0-8kQ/company-logo_400_400/0/1519934276430?e=1645660800&v=beta&t=x6TJnGdhYKXr7S3Z7OCc4YQKpyUPUsvj_LXaUMAuWfE" group-title="nasional", KOMPAS TV
@@ -19,7 +22,7 @@
     #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/metrotv.jpg" group-title="nasional", Metro TV (HD)
     http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1804946251_b1492000_sleng.m3u8
 
-    #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcoiYwYUdhCLdVF5YHWQiOr2Gfhbc7DbF2w&usqp=CAU" group-title="nasional", TVONE
+    #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/tv_one.jpg" group-title="nasional", TVONE
     http://210.210.155.35/session/4c78058c-6b64-11ec-8b65-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
     #EXTINF:-1 tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="news", CNN INDONESIA

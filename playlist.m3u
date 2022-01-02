@@ -1,25 +1,28 @@
 #EXTM3U
 #----Umum
-    #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png" group-title="nasional", TRANS TV (HD)
+    #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RcdSXmC65OE7ufo2zh6_hHBr1zsKachCCA&usqp=CAU" group-title="nasional", MNCTV
+    https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+
+    #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg" group-title="nasional", TRANS TV
     https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1997483426_b744100_sleng.m3u8
 
-    #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="nasional", TRANS7 (HD)
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="nasional", TRANS7
     https://video.detik.com/trans7/smil:trans7.smil/chunklist_w749892845_b744100_sleng.m3u8
 
-    #EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET TV (HD)
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET TV
     https://youtube.com/JYhn33UbxbE
 
-    #EXTINF:-1 tvg-logo="https://i.postimg.cc/25hnd6BK/logo-kompastv-small.png" group-title="nasional", KOMPAS TV (HD)
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/25hnd6BK/logo-kompastv-small.png" group-title="nasional", KOMPAS TV
     https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G33qL1y5503VMN6q8MEcgkY)/dm/3/x6pz4sa/d/live-3.m3u8
 
 #----News
     #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="nasional", Metro TV (HD)
     http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1804946251_b1492000_sleng.m3u8
 
-    #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE (HD)
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE
     https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
 
-    #EXTINF:-1 tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="news", CNN INDONESIA (HD)
+    #EXTINF:-1 tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="news", CNN INDONESIA
     https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
     #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_small1.png" group-title="Islam", Berita Satu
@@ -27,4 +30,4 @@
 
 #----Islam
     #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_rodjatv_small1.png" group-title="Islam", Rodja TV
-    http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
+    https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1320168868_b1396000.m3u8

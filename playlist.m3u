@@ -42,16 +42,18 @@
 ##-------Malaysia
     #----Umum
         #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="Malaysia", TV1
-        http://iptv.tvmalaysia.cc:80/624850/624850/7177
+        # http://iptv.tvmalaysia.cc:80/624850/624850/7177
+        https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-        #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="Malaysia", TV1
-        http://iptv.tvmalaysia.cc:80/624850/624850/7178
-
+        #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.ibb.co/Qj6GXFm/image.png" group-title="Malaysia", TV2
+        # http://iptv.tvmalaysia.cc:80/624850/624850/7178
+        https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+        
         #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="Malaysia", TV3
         https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
         #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://didik.tv/images/logotv2.png" group-title="Malaysia", NTV7
         http://iptv.tvmalaysia.cc:80/624850/624850/7178
 
-        #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2014/07/tv_9_malaysia.png" group-title="Malaysia", TV1
+        #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2014/07/tv_9_malaysia.png" group-title="Malaysia", NTV7
         https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8

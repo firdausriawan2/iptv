@@ -32,7 +32,7 @@
         #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1101078918545600512/RkJnUwdY_400x400.png" group-title="Indonesia", Berita Satu
         http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://3.bp.blogspot.com/-WOn6KnnlfEc/W9pV8NImp6I/AAAAAAAAFng/f-Y8BHnsCCIsp2DFO0nQ_xT_gSoTPDfzgCK4BGAYYCw/s1600/iNews%2Bsipp%2Bpoll-min.png" group-title="Indonesia", Berita Satu
+        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://3.bp.blogspot.com/-WOn6KnnlfEc/W9pV8NImp6I/AAAAAAAAFng/f-Y8BHnsCCIsp2DFO0nQ_xT_gSoTPDfzgCK4BGAYYCw/s1600/iNews%2Bsipp%2Bpoll-min.png" group-title="Indonesia", iNews
         https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 
     #----Islam

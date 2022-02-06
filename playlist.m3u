@@ -1,6 +1,9 @@
 #EXTM3U
 ##-------Indonesia
     #----Umum
+        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1460915181643452416/TOnTX4dV_400x400.jpg" group-title="Indonesia", INDOSIAR
+        http://210.210.155.35/session/d0ae0f72-873e-11ec-94ac-b82a72d63267/qwr9ew/s/s04/01.m3u8
+        
         #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1460915181643452416/TOnTX4dV_400x400.jpg" group-title="Indonesia", RCTI
         https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
@@ -17,10 +20,10 @@
         https://video.detik.com/trans7/smil:trans7.smil/chunklist_w749892845_b744100_sleng.m3u8
 
         #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://3.bp.blogspot.com/-wjSWwKsldZw/WTJWr6OoVDI/AAAAAAAAAOg/MSR8ivnsRxIs-kkBomfm-px6r__B1nN5QCLcB/s1600/nettv.png" group-title="Indonesia", NET TV
-        https://youtube.com/JYhn33UbxbE
+        http://210.210.155.35/session/477c426c-8745-11ec-ad32-b82a72d63267/qwr9ew/s/s08/01.m3u83
 
         #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQE29YsvQ0-8kQ/company-logo_400_400/0/1519934276430?e=1645660800&v=beta&t=x6TJnGdhYKXr7S3Z7OCc4YQKpyUPUsvj_LXaUMAuWfE" group-title="Indonesia", KOMPAS TV
-        https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G33qL1y5503VMN6q8MEcgkY)/dm/3/x6pz4sa/d/live-3.m3u8
+        http://210.210.155.35/session/ea86bf5e-8741-11ec-9219-c81f66f89318/qwr9ew/s/s104/01.m3u8
 
     #----News
         #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.infotelevisi.com/asset/images/tv/metrotv.jpg" group-title="Indonesia", Metro TV

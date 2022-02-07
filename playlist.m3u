@@ -1,7 +1,7 @@
 #EXTM3U
 ##-------Indonesia
     #----Umum
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1460915181643452416/TOnTX4dV_400x400.jpg" group-title="Indonesia", INDOSIAR
+        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.pinimg.com/originals/a5/c6/1a/a5c61a324cd4a7c1c30f9992b8045924.jpg" group-title="Indonesia", INDOSIAR
         http://210.210.155.35/session/d0ae0f72-873e-11ec-94ac-b82a72d63267/qwr9ew/s/s04/01.m3u8
         
         #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1460915181643452416/TOnTX4dV_400x400.jpg" group-title="Indonesia", RCTI

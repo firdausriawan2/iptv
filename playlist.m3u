@@ -4,6 +4,12 @@
         #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.pinimg.com/originals/a5/c6/1a/a5c61a324cd4a7c1c30f9992b8045924.jpg" group-title="Indonesia", INDOSIAR
         http://210.210.155.35/session/d0ae0f72-873e-11ec-94ac-b82a72d63267/qwr9ew/s/s04/01.m3u8
         
+        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/By5T17C/antv-tv-stream-b6cca5.png" group-title="Indonesia", ANTV
+        http://rr2.dens.tv/s/s07/01.m3u8
+
+        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/fM51QfN/2103502453.jpg" group-title="Indonesia", SCTV
+        http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+
         #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1460915181643452416/TOnTX4dV_400x400.jpg" group-title="Indonesia", RCTI
         https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
@@ -20,7 +26,7 @@
         https://video.detik.com/trans7/smil:trans7.smil/chunklist_w749892845_b744100_sleng.m3u8
 
         #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://3.bp.blogspot.com/-wjSWwKsldZw/WTJWr6OoVDI/AAAAAAAAAOg/MSR8ivnsRxIs-kkBomfm-px6r__B1nN5QCLcB/s1600/nettv.png" group-title="Indonesia", NET TV
-        http://210.210.155.35/session/477c426c-8745-11ec-ad32-b82a72d63267/qwr9ew/s/s08/01.m3u83
+        http://210.210.155.35/session/477c426c-8745-11ec-ad32-b82a72d63267/qwr9ew/s/s08/01.m3u8
 
         #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQE29YsvQ0-8kQ/company-logo_400_400/0/1519934276430?e=1645660800&v=beta&t=x6TJnGdhYKXr7S3Z7OCc4YQKpyUPUsvj_LXaUMAuWfE" group-title="Indonesia", KOMPAS TV
         http://210.210.155.35/session/ea86bf5e-8741-11ec-9219-c81f66f89318/qwr9ew/s/s104/01.m3u8

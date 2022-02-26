@@ -1,75 +1,55 @@
 #EXTM3U
-##-------Indonesia
-    #----Umum
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.pinimg.com/originals/a5/c6/1a/a5c61a324cd4a7c1c30f9992b8045924.jpg" group-title="Indonesia", INDOSIAR
-        http://210.210.155.35/session/d0ae0f72-873e-11ec-94ac-b82a72d63267/qwr9ew/s/s04/01.m3u8
-        
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/By5T17C/antv-tv-stream-b6cca5.png" group-title="Indonesia", ANTV
-        http://rr2.dens.tv/s/s07/01.m3u8
+        #----Islam
+                #EXTINF:-1 tv-name="Rodja TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/Rodja-TV.jpg" group-title="Nasional", Rodja TV
+                https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1320168868_b1396000.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/fM51QfN/2103502453.jpg" group-title="Indonesia", SCTV
-        http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+                #EXTINF:-1 tv-name="Surau TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/T4LwCMn/index.jpg" group-title="Nasional", Surau TV
+                https://h1.intechmedia.net/intech/ch3.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1460915181643452416/TOnTX4dV_400x400.jpg" group-title="Indonesia", RCTI
-        https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+        #----Umum
+                #EXTINF:-1 tv-name="INDOSIAR" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1430036177973768193/22IqJdvA_400x400.jpg" group-title="Nasional", INDOSIAR
+                http://210.210.155.35/session/d0ae0f72-873e-11ec-94ac-b82a72d63267/qwr9ew/s/s04/01.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1460915181643452416/TOnTX4dV_400x400.jpg" group-title="Indonesia", MNCTV
-        https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+                #EXTINF:-1 tv-name="ANTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.abadikini.com/media/files/2020/03/qpzb56B3ZNXe50laZhyA.png" group-title="Nasional", ANTV
+                http://rr2.dens.tv/s/s07/01.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/ZcHJH3z/gtv.png" group-title="Indonesia", GTV
-        https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
+                #EXTINF:-1 tv-name="SCTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/8PWFTY8/SCTV-400x400.png" group-title="Nasional", SCTV
+                http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg" group-title="Indonesia", TRANS TV
-        https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1997483426_b744100_sleng.m3u8
+                #EXTINF:-1 tv-name="TRANS7" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="Nasional", TRANS7
+                https://video.detik.com/trans7/smil:trans7.smil/chunklist_w749892845_b744100_sleng.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="Indonesia", TRANS7
-        https://video.detik.com/trans7/smil:trans7.smil/chunklist_w749892845_b744100_sleng.m3u8
+                #EXTINF:-1 tv-name="TRANS TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg" group-title="Nasional", TRANS TV
+                https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1997483426_b744100_sleng.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://3.bp.blogspot.com/-wjSWwKsldZw/WTJWr6OoVDI/AAAAAAAAAOg/MSR8ivnsRxIs-kkBomfm-px6r__B1nN5QCLcB/s1600/nettv.png" group-title="Indonesia", NET TV
-        http://210.210.155.35/session/477c426c-8745-11ec-ad32-b82a72d63267/qwr9ew/s/s08/01.m3u8
+                #EXTINF:-1 tv-name="NET TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://ik.imagekit.io/tk6ir0e7mng/uploads/2022/01/1643137656944.jpeg" group-title="Nasional", NET TV
+                http://210.210.155.35/session/477c426c-8745-11ec-ad32-b82a72d63267/qwr9ew/s/s08/01.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQE29YsvQ0-8kQ/company-logo_400_400/0/1519934276430?e=1645660800&v=beta&t=x6TJnGdhYKXr7S3Z7OCc4YQKpyUPUsvj_LXaUMAuWfE" group-title="Indonesia", KOMPAS TV
-        http://210.210.155.35/session/ea86bf5e-8741-11ec-9219-c81f66f89318/qwr9ew/s/s104/01.m3u8
+        #----News
+                #EXTINF:-1 tv-name="KOMPAS TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1430830041919721475/U7LgJ1pw_400x400.jpg" group-title="Nasional", KOMPAS TV
+                http://210.210.155.35/session/ea86bf5e-8741-11ec-9219-c81f66f89318/qwr9ew/s/s104/01.m3u8
 
-    #----News
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.infotelevisi.com/asset/images/tv/metrotv.jpg" group-title="Indonesia", Metro TV
-        http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1804946251_b1492000_sleng.m3u8
+                #EXTINF:-1 tv-name="METRO TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.infotelevisi.com/asset/images/tv/metrotv.jpg" group-title="Nasional", METRO TV
+                http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1804946251_b1492000_sleng.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/hXYvztf/2638977504.jpg" group-title="Indonesia", TVONE
-        http://210.210.155.35/session/4c78058c-6b64-11ec-8b65-b82a72d63267/qwr9ew/s/s105/01.m3u8
+                #EXTINF:-1 tv-name="TVONE" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/hXYvztf/2638977504.jpg" group-title="Nasional", TVONE
+                http://210.210.155.35/session/4c78058c-6b64-11ec-8b65-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="Indonesia", CNN INDONESIA
-        https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+                #EXTINF:-1 tv-name="CNN Indonesia" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="Nasional", CNN Indonesia
+                https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1101078918545600512/RkJnUwdY_400x400.png" group-title="Indonesia", Berita Satu
-        http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://3.bp.blogspot.com/-WOn6KnnlfEc/W9pV8NImp6I/AAAAAAAAFng/f-Y8BHnsCCIsp2DFO0nQ_xT_gSoTPDfzgCK4BGAYYCw/s1600/iNews%2Bsipp%2Bpoll-min.png" group-title="Indonesia", iNews
-        https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
-
-    #----Islam
-        #EXTINF:-1 tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/Rodja-TV.jpg" group-title="Indonesia", Rodja TV
-        https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1320168868_b1396000.m3u8
+                #EXTINF:-1 tv-name="Berita Satu" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1101078918545600512/RkJnUwdY_400x400.png" group-title="Nasional", Berita Satu
+                http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
 ##-------Malaysia
-    #----Umum
-        #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="Malaysia", TV1
-        https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+                #EXTINF:-1 tv-name="TV1" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="Malaysia", TV1
+                https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-        #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.ibb.co/Qj6GXFm/image.png" group-title="Malaysia", TV2
-        https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+                #EXTINF:-1 tv-name="TV2" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="Malaysia", TV2
+                https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-        #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="Malaysia", TV3
-        https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+                #EXTINF:-1 tv-name="TV6" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://i.ibb.co/t8zBMLH/TV6-Logo.jpg" group-title="Malaysia", TV6
+                https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-        #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.ibb.co/t8zBMLH/TV6-Logo.jpg" group-title="Malaysia", TV6
-        https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-
-        #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.ibb.co/S5gxPJF/ntv7.png" group-title="Malaysia", NTV7
-        http://iptv.tvmalaysia.cc:80/624850/624850/7178
-
-        #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.ibb.co/yp7f2F9/8tv.jpg" group-title="Malaysia", 8TV
-        https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-
-        #EXTINF:-1 tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2014/07/tv_9_malaysia.png" group-title="Malaysia", TV9
-        https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+                #EXTINF:-1 tv-name="TV8" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://i.ibb.co/yp7f2F9/8tv.jpg" group-title="Malaysia", TV8
+                https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8

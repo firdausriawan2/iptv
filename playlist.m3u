@@ -45,7 +45,7 @@
                 #EXTINF:-1 tv-name="TV1" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="Malaysia", TV1
                 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-                #EXTINF:-1 tv-name="TV2" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="Malaysia", TV2
+                #EXTINF:-1 tv-name="TV2" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://i.ibb.co/Qj6GXFm/image.png" group-title="Malaysia", TV2
                 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
                 #EXTINF:-1 tv-name="TV6" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://i.ibb.co/t8zBMLH/TV6-Logo.jpg" group-title="Malaysia", TV6

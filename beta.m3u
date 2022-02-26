@@ -1,0 +1,6 @@
+#EXTM3U
+        #----Islam
+                #EXTINF:-1 tv-name="Rodja TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/Rodja-TV.jpg" group-title="Nasional", Rodja TV
+                https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1320168868_b1396000.m3u8
+
+                https://h1.intechmedia.net/intech/ch3.m3u8

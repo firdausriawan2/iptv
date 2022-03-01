@@ -10,11 +10,20 @@
                 #EXTINF:-1 tv-name="INDOSIAR" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1430036177973768193/22IqJdvA_400x400.jpg" group-title="Nasional", INDOSIAR
                 http://210.210.155.35/session/d0ae0f72-873e-11ec-94ac-b82a72d63267/qwr9ew/s/s04/01.m3u8
 
+                #EXTINF:-1 tv-name="MNCTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1460915181643452416/TOnTX4dV_400x400.jpg" group-title="Nasional", MNCTV
+                https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+
                 #EXTINF:-1 tv-name="ANTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.abadikini.com/media/files/2020/03/qpzb56B3ZNXe50laZhyA.png" group-title="Nasional", ANTV
                 http://rr2.dens.tv/s/s07/01.m3u8
 
                 #EXTINF:-1 tv-name="SCTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/8PWFTY8/SCTV-400x400.png" group-title="Nasional", SCTV
                 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+
+                #EXTINF:-1 tv-name="RCTI" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.abadikini.com/media/files/2020/03/yjEPQBiSgLuUUCuNfAXe.png" group-title="Nasional", RCTI
+                https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+
+                #EXTINF:-1 tv-name="GTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1169251873833938945/GSxqT4ii_400x400.jpg" group-title="Nasional", GTV
+                https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
                 #EXTINF:-1 tv-name="TRANS7" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="Nasional", TRANS7
                 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w749892845_b744100_sleng.m3u8
@@ -24,6 +33,9 @@
 
                 #EXTINF:-1 tv-name="NET TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://ik.imagekit.io/tk6ir0e7mng/uploads/2022/01/1643137656944.jpeg" group-title="Nasional", NET TV
                 http://210.210.155.35/session/477c426c-8745-11ec-ad32-b82a72d63267/qwr9ew/s/s08/01.m3u8
+
+                #EXTINF:-1 tv-name="TVRI" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1111619306112966661/lPNDEXad_400x400.png" group-title="Nasional", TVRI
+                http://group2-swiftservesd-1.dens.tv/s/s11/01.m3u8
 
         #----News
                 #EXTINF:-1 tv-name="KOMPAS TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1430830041919721475/U7LgJ1pw_400x400.jpg" group-title="Nasional", KOMPAS TV

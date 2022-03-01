@@ -68,7 +68,7 @@
                 #EXTINF:-1 tv-name="TV2" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://i.ibb.co/Qj6GXFm/image.png" group-title="Malaysia", TV2
                 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-                #EXTINF:-1 tv-name="TV3" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="Malaysia", TV2
+                #EXTINF:-1 tv-name="TV3" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="Malaysia", TV3
                 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
                 #EXTINF:-1 tv-name="TV6" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://i.ibb.co/t8zBMLH/TV6-Logo.jpg" group-title="Malaysia", TV6

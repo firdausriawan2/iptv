@@ -77,8 +77,8 @@
                 #EXTINF:-1 tv-name="TV8" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://i.ibb.co/yp7f2F9/8tv.jpg" group-title="Malaysia", TV8
                 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-                #EXTINF:-1 tv-name="TV9" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="Malaysia", TV8
+                #EXTINF:-1 tv-name="TV9" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://i.ibb.co/wN0JBJ6/tv-9-malaysia.png" group-title="Malaysia", TV9
                 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-                #EXTINF:-1 tv-name="Drama Sangat" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="Malaysia", TV8
+                #EXTINF:-1 tv-name="Drama Sangat" tvg-country="MY" tvg-language="Melayu" tvg-logo="https://pbs.twimg.com/profile_images/794112552179470336/SE6fHPWG_400x400.jpg" group-title="Malaysia", Drama Sangat
                 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
